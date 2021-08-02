@@ -52,6 +52,7 @@ class Pipe {
     }
 }
 
+
 let jump = () => {
     let top = parseInt(character.css("top"))
     if (timeout) {
